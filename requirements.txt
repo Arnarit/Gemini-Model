@@ -12,3 +12,5 @@ Pillow
 groq 
 replicate 
 requests
+youtube_transcript_api
+pathlib
